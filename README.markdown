@@ -1,28 +1,22 @@
-= ruby-do
+# ruby-do
 
-* FIX (url)
+ruby-do is a collection of little usually one file ruby scripts which
+implements some usfull functionallity. The two first tools are a webdav server
+and a deadline day counter.
 
-== DESCRIPTION:
+## FEATURES/PROBLEMS:
 
-FIX (describe your package)
+## SYNOPSIS:
 
-== FEATURES/PROBLEMS:
+## REQUIREMENTS:
 
-* FIX (list of features or problems)
+Should be cross platform, only depending on ruby 1.8.6 or higher.
 
-== SYNOPSIS:
+## INSTALL:
 
-  FIX (code sample of usage)
+    $ gem install ruby-do
 
-== REQUIREMENTS:
-
-* FIX (list of requirements)
-
-== INSTALL:
-
-* FIX (sudo gem install, anything else)
-
-== LICENSE:
+## LICENSE:
 
 (The MIT License)
 
